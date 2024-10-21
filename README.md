@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200" height="200" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="200" />
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" height="200" />
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="200"/>
 </p>
 
 ---
