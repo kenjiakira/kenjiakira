@@ -11,7 +11,6 @@ I'm a passionate developer with a keen interest in pushing technological boundar
 
 ## 🚀 Current Focus
 
-- 🔭 **Active Project:** [Facebook Chat API](https://github.com/kenjiakira/Pack-Share-MSG)
 - 🌱 **Learning Path:** 
   - Artificial Intelligence
   - Machine Learning
