@@ -2,11 +2,6 @@
 🌟 About Me
 I’m a developer who loves learning new things about technology. I enjoy solving problems and creating useful projects.
 
-🚀 What I'm Learning
-Artificial Intelligence
-Machine Learning
-Cloud Computing
-🛠️ Skills
 <div align="center"> <h3>Languages</h3> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <h3>Frameworks</h3> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kenjiakira&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiakira&theme=radical" alt="GitHub Streak" width="45%"/> </div>
