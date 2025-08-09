@@ -215,11 +215,3 @@ const developer = {
   </table>
 </div>
 
-
----
-
-## 📈 **Coding Activity & Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjiakira&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
-</div>
