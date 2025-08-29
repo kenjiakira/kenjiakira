@@ -147,7 +147,7 @@ const developer = {
       </td>
       <td align="center" width="50%">
         <h3>📈 GitHub Highlights</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenjiakira&theme=tokyonight" alt="Profile Summary" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenjiakira&show_icons=true&theme=tokyonight" alt="Profile Summary" width="100%"/>
       </td>
     </tr>
   </table>
