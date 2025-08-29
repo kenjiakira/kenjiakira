@@ -111,7 +111,7 @@ const developer = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kenjiakira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenjiakira&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%"/>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiakira&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=ffd700&fire=ff6b6b&currStreakLabel=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%"/>
