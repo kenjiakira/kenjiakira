@@ -1,50 +1,58 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20there,%20I'm%20Ngọc%20Từ%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Tech%20Innovator%20|%20Problem%20Solver&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=Hi%20there,%20I'm%20Ngọc%20Từ%20👋&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Tech%20Innovator%20|%20Code%20Architect&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🚀+Junior+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=🚀+Senior+Full-Stack+Developer;💻+Building+Digital+Experiences;🌟+Passionate+Problem+Solver;⚡+Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/kenjiakira">
-    <img src="https://img.shields.io/github/followers/kenjiakira?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/kenjiakira?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/kenjiakira">
-    <img src="https://img.shields.io/github/stars/kenjiakira?label=Profile%20Stars&style=social" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/kenjiakira?label=Profile%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a" alt="GitHub Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kenjiakira&style=flat-square&color=FF6B6B" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kenjiakira&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 ---
 
-## 🎯 **Quick Overview**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎯 **About Me**
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Coding"/>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding"/>
       </td>
       <td>
 
-```typescript
+```javascript
 const developer = {
     name: "Ngọc Từ",
     title: "Senior Full-Stack Developer",
     location: "Vietnam 🇻🇳",
     experience: "5+ years",
+    passion: "Crafting digital experiences",
     specialties: [
-        "Web Development",
-        "Cloud Architecture", 
-        "DevOps"
+        "🌐 Full-Stack Web Development",
+        "☁️ Cloud Architecture & DevOps", 
+        "📱 Mobile App Development",
+        "🎨 UI/UX Design",
+        "🔧 System Architecture"
     ],
-    currentProjects: {
-        "AI Assistant": "Building next-gen AI tools",
-        "DeFi Platform": "Developing decentralized finance solutions",
-        "Cloud Migration": "Architecting scalable cloud systems"
+    currentFocus: {
+        "🚀 Modern Web Apps": "Next.js, React, Vue.js",
+        "💡 Innovative Solutions": "Scalable architectures",
+        "🌟 Open Source": "Contributing to community",
+        "📚 Continuous Learning": "Staying ahead of trends"
     },
-    lifePhilosophy: "Code today, innovate tomorrow! 🚀"
+    motto: "Code with passion, build with purpose! ✨"
 };
 ```
 
@@ -53,145 +61,153 @@ const developer = {
   </table>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🛠️ **Advanced Tech Stack**
+## 🛠️ **Technology Arsenal**
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,go,kotlin,react,nextjs,vue,nodejs,express,nestjs,mongodb,redis,postgres,firebase,supabase,docker,kubernetes,aws,gcp,azure,git,github,vscode,figma,postman&perline=14" alt="Tech Stack"/>
+</div>
+
+### 💻 **Languages & Frameworks**
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+| **Frontend** | **Backend** | **Mobile** | **Languages** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 
 </div>
-</details>
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br>
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br>
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<div align="center">
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Others</b></summary>
-<br>
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-</div>
-</details>
-
----
-
-## 📊 **GitHub Analytics Dashboard**
+### 🗄️ **Databases & Cloud**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenjiakira&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+
+| **Databases** | **Cloud Services** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenjiakira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiakira&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFD700&fire=FF6B6B&currStreakLabel=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiakira&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=10" alt="Top Languages" width="40%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kenjiakira&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenjiakira&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=FFD700&point=FFFFFF&area=true&hide_border=true&area_color=FF6B6B" alt="Contribution Graph" width="90%"/>
-</div>
-
----
-
-## 🏆 **Certifications**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100%">
-        <h3>🎖️ Certifications</h3>
-        <img src="https://img.shields.io/badge/Google_Technical_Support_Basics-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Git_%26_GitHub_(IBM)-006699?style=for-the-badge&logo=github&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/React_Basic_(Meta)-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/>
-        <img src="https://img.shields.io/badge/Frontend_Development_(Meta)-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Backend_Development_(Meta)-2C2C2C?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kenjiakira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiakira&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=ffd700&fire=ff6b6b&currStreakLabel=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiakira&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenjiakira&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=00d9ff" alt="Contribution Graph" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🏆 **Achievements & Certifications**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎖️ Professional Certifications</h3>
+        <img src="https://img.shields.io/badge/Google_Technical_Support_Basics-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/><br/>
+        <img src="https://img.shields.io/badge/Git_%26_GitHub_(IBM)-006699?style=for-the-badge&logo=github&logoColor=white"/><br/><br/>
+        <img src="https://img.shields.io/badge/React_Basic_(Meta)-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/><br/>
+        <img src="https://img.shields.io/badge/Frontend_Development_(Meta)-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br/><br/>
+        <img src="https://img.shields.io/badge/Backend_Development_(Meta)-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>📈 GitHub Highlights</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenjiakira&theme=tokyonight" alt="Profile Summary" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 **What I'm Working On**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" alt="Web Dev"/>
+        <h3>🚀 Modern Web Apps</h3>
+        <p>Building responsive, scalable web applications with cutting-edge technologies</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="API"/>
+        <h3>⚡ High-Performance APIs</h3>
+        <p>Developing robust backend systems and microservices architectures</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" alt="Database"/>
+        <h3>🔧 System Optimization</h3>
+        <p>Optimizing database performance and system architecture</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📫 **Let's Connect!**
+
+<div align="center">
+  <h3>🌐 Ready to collaborate on something amazing?</h3>
+  
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.gg/yourserver">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+incredible+together!+🚀;Always+open+to+new+opportunities!+💼" alt="Footer Text" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="Footer"/>
+</div>
