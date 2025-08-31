@@ -99,7 +99,7 @@ const developer = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenjiakira&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kenjiakira&theme=radical&no-frame=true&margin-w=8&margin-h=8&row=4&column=5&title=Commit,Repositories,Stars,Followers,PullRequest,Issues,Review,Experience,LongTimeUser,NewUser,Organizations,MultiLanguage,AllSuperRank,IssueResolution,PullRequestResolution,StarRank,Inspiration,Explorer,AncientUser" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
