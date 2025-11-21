@@ -35,8 +35,8 @@
 ```javascript
 const developer = {
     name: "Ngọc Từ",
-    title: "Junior Software Developer"
-    age: "19 years old"
+    title: "Junior Software Developer",
+    age: "19 years old",
     location: "Vietnam 🇻🇳",
     experience: "3+ years",
     passion: "Crafting digital experiences",
