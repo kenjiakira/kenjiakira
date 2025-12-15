@@ -68,7 +68,7 @@ const developer = {
 ## 🛠️ **Technology Arsenal**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,go,kotlin,react,nextjs,vue,nodejs,express,nestjs,mongodb,redis,postgres,firebase,supabase,docker,kubernetes,aws,gcp,azure,git,github,vscode,figma,postman&perline=14" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,nestjs,mongodb,redis,supabase,docker,aws,git,github,vscode,figma,postman&perline=14" alt="Tech Stack"/>
 </div>
 ### 💻 **Languages & Frameworks**
 <div align="center">
