@@ -1,9 +1,9 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=Hi%20there,%20I'm%20Ngọc%20Từ%20👋&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Tech%20Innovator%20|%20Code%20Architect&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=Hi%20there,%20I'm%20Ngọc%20Từ%20👋&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Tech%20Innovator%20|%20Code%20Architect&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=🚀+Junior+Software+Developer;💻+Building+Digital+Experiences;🌟+Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=🚀+Software+Developer;💻+Building+Digital+Experiences;🌟+Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
