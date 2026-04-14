@@ -35,13 +35,13 @@
 ```javascript
 const developer = {
     name: "Ngọc Từ",
-    title: "Junior Software Developer",
+    title: "JSoftware Developer",
     age: "19 years old",
     location: "Vietnam 🇻🇳",
     experience: "3+ years",
     passion: "Crafting digital experiences",
     specialties: [
-        "🌐 Full-Stack Web Development",
+        "🌐 Web Development",
         "☁️ Cloud Architecture & DevOps",
         "🎨 UI/UX Design",
         "🔧 System Architecture"
